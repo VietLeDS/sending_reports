@@ -1,6 +1,6 @@
 Các file bat cần chạy (.bat):
 
-Ngày thường: (chạy file start_everything_nonev.bat để tự động bật list code bên dưới)
+Ngày thường: (chạy file start_everything_nonev.bat để tự động bật các code bên dưới)
 send_vol_at_09_00
 send_vol_at_14_00
 send_vol_at_17_00
