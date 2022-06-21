@@ -1,4 +1,5 @@
-Các file cần chạy:
+Các file bat cần chạy (.bat):
+
 Ngày thường:
 send_vol_at_09_00
 send_vol_at_14_00
