@@ -1,0 +1,16 @@
+﻿report,page_name,caption,report_name,x1,y1,x2,y2
+vol,Dự báo Vol Pickup,Dự báo vol Pickup cập nhật ngày ,,60,171,599,959
+vol2,vol2,,,57,169,1336,877
+vol3,vol3,,,60,171,1104,961
+vollm,Dự báo Vol LM,Dự báo vol LM cập nhật ngày ,,105,162,955,978
+lmspeed,LM Speed,Báo cáo số lượng đơn hàng giao thành công và tỷ lệ giao thành công trong ngày theo DP cập nhật ngày ,,93,160,1295,979
+gtsc,GTSC,Dự báo các đơn GTSC Pickup cập nhật ngày ,Dự báo các đơn Pickup GTSC,51,247,1340,735
+gtsc2,GTSC2,Dự báo các đơn GTSC LM cập nhật ngày ,Dự báo các đơn Lastmile GTSC ngày mai chuyển về DP,51,247,1340,735
+gtsc3,GTSC3,Dự báo các đơn GTSC đang ở DP ngày ,Danh sách các đơn Lastmile GTSC đang ở DP,51,247,1340,735
+fm,FM,Em gửi data FM ngày ,Những đơn bắt buộc xử lý,52,173,1346,897
+lm,LM,Em gửi data LM tối ngày ,Những đơn cần xử lý 1st atp LM trước 20h,52,173,1344,916
+fmdetail,FM Detail,,Những đơn bắt buộc xử lý,,,,
+lmdetail,LM Detail,,Những đơn cần xử lý 1st atp LM trước 20h,,,,
+lmc,LM Control,Em gửi data LM Control ngày ,,84,267,1217,978
+lmcdetail,LM Control Detail,,Đơn LM Control,,,,
+lm12,LM12h,Em gửi tiến độ xử lý hàng LM sáng ,,128,161,932,977

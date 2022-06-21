@@ -1,0 +1,11 @@
+requests
+### logging
+autologging
+threaded
+pyautogui
+pywinauto
+pyperclip
+Pillow
+openpyxl
+pandas
+threaded
